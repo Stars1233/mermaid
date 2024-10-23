@@ -74,7 +74,7 @@
     "cytoscape-cose-bilkent": "^4.1.0",
     "d3": "^7.9.0",
     "d3-sankey": "^0.12.3",
-    "dagre-d3-es": "7.0.10",
+    "dagre-d3-es": "7.0.11",
     "dayjs": "^1.11.10",
     "dompurify": "^3.0.11",
     "katex": "^0.16.9",
